@@ -1,0 +1,4 @@
+/home/chiyutuci/Programs/CLion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/chiyutuci/Programs/CLion/bin/ninja/linux/x64/ninja -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G Ninja -S /home/chiyutuci/Works/fpoly -B /home/chiyutuci/Works/fpoly/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/chiyutuci/Works/fpoly/cmake-build-debug
